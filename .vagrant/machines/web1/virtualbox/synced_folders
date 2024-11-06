@@ -1,0 +1,1 @@
+{"rsync":{"/var/www/html":{"type":"rsync","guestpath":"/var/www/html","hostpath":"C:/Users/ddomi/Desktop/2do_parcial_vagrant","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
